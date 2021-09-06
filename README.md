@@ -20,8 +20,8 @@
 <div> <a href="https://instagram.com/daniellaarcanjoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniella-arcanjo-dos-santos-3b47921bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:contato.daniarcanjo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+![Design sem nome (13)](https://user-images.githubusercontent.com/89938367/132253574-bb2f215e-f6ff-4382-9909-11cf50ef1158.png)
 
- ( https://www.canva.com/design/DAEpPqVJyOc/vjyGwqkNfnLfW-i3vx3JLA/view?utm_content=DAEpPqVJyOc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 <!--
 **daniarcanjo/daniarcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
